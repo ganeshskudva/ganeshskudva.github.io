@@ -1,2 +1,2 @@
 # ganeshskudva.github.io
-My personal websit
+My personal website
